@@ -1,12 +1,26 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-	on git init git creates a .git folder, you need to do this because the directory you ar in is not a git repository.
+	on git init git creates a .git folder, you need to do this because the directory
+	you are in is not a git repository.
 
-How is the staging area different from the working directory and the repository? What value do you think it offers?
+How is the staging area different from the working directory and the repository? What
+value do you think it offers?
 
-	the staging area contains the file before you commit, the repository contains history of everything that has occurred to/in that repository since it was created, the working directory has file/s that are part of the change control and some that aren't
+	The staging area contains the file before you commit, the repository contains 
+	history of everything that has occurred to/in that repository since it was created,
+	the working directory has file/s that are part of the change control and some that
+	aren't
 
 How can you use the staging area to make sure you have one commit per logical change?
 
-	Add all the files changed for a particular change to the staging area as you complete the change on that file and commit when finished with all parts of the change.
+	Add all the files changed for a particular change to the staging area as you 
+	complete the change on that file and commit when finished with all parts of the change.
+
+What are some situations when branches would be helpful in keeping your history organized?
+How would branches help?
 	
+	If you wish to keep a working version and still make changes and test them
+
+How do the diagrams help you visualize the branch structure?
+
+	xxx
