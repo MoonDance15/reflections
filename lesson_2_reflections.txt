@@ -25,3 +25,8 @@ How do the diagrams help you visualize the branch structure?
 
 	they visually show the master and branches and any unreachable 'lines'
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	The changes from both the branch and the master are applied to the master. It is
+	represented as it is to show that the 2 branches are merged and to show that the
+	changes in both branches are now accessable(seen) by the master. 
