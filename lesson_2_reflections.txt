@@ -29,4 +29,11 @@ What is the result of merging two branches together? Why do we represent it in t
 
 	The changes from both the branch and the master are applied to the master. It is
 	represented as it is to show that the 2 branches are merged and to show that the
-	changes in both branches are now accessable(seen) by the master. 
+	changes in both branches are now accessable(seen) by the master.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	pro's - quick, easy, no human error, 
+	con's - cant resolve conflicts, may introduce bugs that manual merging could pick up.
+
+ 

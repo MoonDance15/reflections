@@ -3,12 +3,13 @@ local?
 
     1) Security
     2) Collaboration
-    3) Sharing my work - for submission to Udacity (or others) and for help.
+    3) Sharing my work - for submission to Udacity (or others e.g. Piazza) and for help.
 
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+    Because other people may update the remote repository and you dont want their changes messing with whatever you are working on. Auto might pull something down that you dont want or need.
+    Will Pull overwrite? RC check this please
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
