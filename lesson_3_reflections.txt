@@ -8,8 +8,8 @@ local?
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Because other people may update the remote repository and you dont want their changes messing with whatever you are working on. Auto might pull something down that you dont want or need.
-    Will Pull overwrite? RC check this please
+    Because other people may update the remote repository and you dont want their changes
+    messing with whatever you are working on. Auto might pull something down that you dont want or need.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
@@ -24,12 +24,13 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    You can compare changes and look at conflicts before committing and also I am able to see what others have done without needing to be connected to the internet eg. when travelling.
+    You can compare changes and look at conflicts before committing and also I am able to
+    see what others have done without needing to be connected to the internet eg. when travelling.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    Use some other change control system??? phone calls, comparing files and updating manually - none of this would be easier or as accurate except the first option but that would involve sourcing a system and learning how to use it, I would have to be a 'git'to do that :)
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
